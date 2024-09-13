@@ -76,6 +76,10 @@ To run this program, you can use [Remix](https://remix.ethereum.org/), an online
 - **Token Abbreviation**: The `tokenAbbre` variable contains the abbreviation of the token.
 - **Total Supply**: The `totalSupply` variable shows how many tokens are currently in circulation.
 - **Balance**: The `balances` mapping allows you to check the token balance for a specific Ethereum address.
+  
+ ## References
+
+This project was inspired by learning resources such as [Sample Readme](https://bit.ly/SampleReadme1).
 
 ## Author
 
